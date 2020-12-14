@@ -38,24 +38,38 @@ https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell
 
 ### E2E
 https://webdriver.io/
+
 https://www.cypress.io/
+
 https://robotframework.org/
+
 https://www.froglogic.com/
+
 https://codecept.io/
+
 https://nightwatchjs.org/
 
+
 ### Performance testing
+
 https://gatling.io/
+
 https://jmeter.apache.org/
 
 ### Acceptance testing
+
 https://cucumber.io/
+
 http://www.thucydides.info/#/
 
 ### Mobile
 http://appium.io/
 
 ### API
+
 https://mswjs.io/
+
 https://insomnia.rest/
+
 https://www.postman.com/
+
