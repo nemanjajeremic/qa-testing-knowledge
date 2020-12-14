@@ -8,6 +8,8 @@ https://techbeacon.com/app-dev-testing/33-test-automation-leaders-follow-2019
 ### Testing blogs
 https://janetgregory.ca/blog/
 
+https://itworks.substack.com/
+
 https://www.eviltester.com/blog/
 
 https://www.satisfice.com/blog
