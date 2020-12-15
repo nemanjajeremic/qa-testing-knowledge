@@ -14,6 +14,8 @@ https://www.eviltester.com/blog/
 
 https://www.satisfice.com/blog
 
+https://www.developsense.com/index.html
+
 ## Skills
 
 ### CLI 
