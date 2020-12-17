@@ -52,6 +52,9 @@ https://www.froglogic.com/
 https://codecept.io/
 
 https://nightwatchjs.org/
+https://playwright.dev/
+
+https://github.com/avajs/ava
 
 
 ### Performance testing
