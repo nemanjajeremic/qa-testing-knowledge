@@ -6,6 +6,8 @@ https://techbeacon.com/app-dev-testing/33-test-automation-leaders-follow-2019
 
 ## Testing
 ### Testing blogs
+https://angryweasel.com/blog/
+
 https://janetgregory.ca/blog/
 
 https://itworks.substack.com/
@@ -27,6 +29,7 @@ https://www.learnenough.com/command-line-tutorial/basics
 ### Blogs
 
 https://www.schneier.com/
+
 https://krebsonsecurity.com/
 
 ## API
@@ -52,6 +55,7 @@ https://www.froglogic.com/
 https://codecept.io/
 
 https://nightwatchjs.org/
+
 https://playwright.dev/
 
 https://github.com/avajs/ava
