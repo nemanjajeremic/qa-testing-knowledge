@@ -16,6 +16,8 @@ https://www.eviltester.com/blog/
 
 https://www.satisfice.com/blog
 
+https://automationpanda.com/testing/
+
 https://www.developsense.com/index.html
 
 ## Skills
@@ -59,6 +61,8 @@ https://nightwatchjs.org/
 https://playwright.dev/
 
 https://github.com/avajs/ava
+
+https://devexpress.github.io/testcafe/
 
 
 ### Performance testing
