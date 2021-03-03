@@ -46,6 +46,8 @@ https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-exp
 
 https://levelup.gitconnected.com/im-programming-on-a-macbook-and-here-are-the-tools-that-make-my-life-easier-905b74b48c6d
 
+https://medium.com/swlh/my-favorite-cli-tools-c2fa484cee52
+
 
 ## Tools
 
