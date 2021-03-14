@@ -48,6 +48,17 @@ https://levelup.gitconnected.com/im-programming-on-a-macbook-and-here-are-the-to
 
 https://medium.com/swlh/my-favorite-cli-tools-c2fa484cee52
 
+### Apps
+Rectangle 
+
+Swish
+
+Pock
+
+Muzzle
+
+Joplin
+
 
 ## Tools
 
