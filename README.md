@@ -4,6 +4,12 @@ Quality assurance and testing knowledge sources, tools and tutorials
 ## Might be outdated
 https://techbeacon.com/app-dev-testing/33-test-automation-leaders-follow-2019
 
+
+### Soft skills - organizational
+https://obsidian.md/
+
+https://joplinapp.org/
+
 ## Testing
 ### Testing blogs
 https://angryweasel.com/blog/
