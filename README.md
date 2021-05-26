@@ -44,6 +44,12 @@ https://krebsonsecurity.com/
 
 https://mswjs.io/docs/getting-started/install
 
+## Terminal/CLI/Bash
+
+https://medium.zenika.com/15-command-line-tools-which-spark-joy-in-your-terminal-ec420d770bcc
+
+
+
 
 ## MacOS setup
 https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell-and-powerlevel10k-6484461c6efb
