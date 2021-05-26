@@ -48,6 +48,10 @@ https://mswjs.io/docs/getting-started/install
 
 https://medium.zenika.com/15-command-line-tools-which-spark-joy-in-your-terminal-ec420d770bcc
 
+## Javascript
+
+https://medium.com/geekculture/10-clever-javascript-tricks-that-every-developer-should-know-e0be92bcfe9
+
 
 
 
