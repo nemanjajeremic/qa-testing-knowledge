@@ -26,6 +26,10 @@ https://automationpanda.com/testing/
 
 https://www.developsense.com/index.html
 
+https://softwaretestingweekly.com/
+
+https://filiphric.com/blog
+
 ## Skills
 
 ### CLI 
