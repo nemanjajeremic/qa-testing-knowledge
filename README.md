@@ -30,6 +30,10 @@ https://softwaretestingweekly.com/
 
 https://filiphric.com/blog
 
+https://www.testautomationweekly.com/
+
+https://softwaretestingnotes.substack.com/
+
 ## Skills
 
 ### CLI 
